@@ -1,12 +1,30 @@
-# flutter_lab 8-9
+# ICT 602 LAB 8-9
 
-A new Flutter project.
+ACCESSING HARDWARE TO IMPLEMENT GOOGLE SIGN-IN.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+
+This Flutter lab demonstrates how to access various hardware features, including:
+
+
+
+This Flutter lab demonstrates how to access various hardware features, including:
+
+Camera (for capturing images and videos)
+
+QR Code Scanning
+
+GPS (Google Maps API integration)
+
+Bluetooth Connectivity
+
+Audio Recording
+
+Accelerometer (motion detection)
+
+Google Sign-In Authentication
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
